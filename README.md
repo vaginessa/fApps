@@ -187,7 +187,6 @@ GitHub: [federicoiosue/Omni-Notes](https://github.com/federicoiosue/Omni-Notes)
 PlayStore: https://play.google.com/store/apps/details?id=it.feio.android.omninotes
 
 **Features**  
-- Supports linebreaks in list notes (Google Keep doesn't!)
 - Tags _and_ categories
 - Reminders (one-time and recurring)
 - No synchronization
