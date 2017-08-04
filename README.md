@@ -13,7 +13,7 @@ Replacement for: GOOGLE APP/FUNCTIONALITY THIS REPLACES
 
 > DESCRIPTION
 
-GitHub: GITHUB LINK
+GitHub: GITHUB LINK  
 PlayStore: PLAYSTORE LINK
 
 **Features**  
@@ -72,12 +72,26 @@ PlayStore: currently not available
 - Automatically removes browser history
 
 ## Calendar
+### Etar
+Replacement for: Google Calendar
+
+> Material Design Calendar
+
+GitHub: [Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar)  
+PlayStore: https://play.google.com/store/apps/details?id=ws.xsoh.etar
+
+**Features**  
+- Month view
+- Week, day & agenda view
+- Uses Android calendar sync. Works with Google Calendar, Exchange, etc.
+- Material design
+- Agenda widget
+
 ### Simple Calendar
 Replacement for: Google Calendar
 
 > A simple calendar with events and a customizable widget.  
 > An offline calendar without any other calendar integration. You can easily create recurring events and setup reminders, it can also display week numbers.
-
 
 GitHub: [SimpleMobileTools/Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)  
 PlayStore: https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar
