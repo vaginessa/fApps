@@ -118,6 +118,22 @@ PlayStore: https://play.google.com/store/apps/details?id=com.fsck.k9
 
 
 ## Gallery
+### Camera Roll
+Replacement for: Google Photos
+
+> Simple Gallery App for Android, with lovely Material Design.
+
+GitHub: [kollerlukas/Camera-Roll-Android-App](https://github.com/kollerlukas/Camera-Roll-Android-App)  
+PlayStore: https://play.google.com/store/apps/details?id=us.koller.cameraroll
+
+**Features**  
+- Fancy design
+- Light/Dark theme
+- Parallax, Cards, and Nested RecyclerView display styles with configurable column count
+- Support for tap & drag multi item selection
+- Detailed image information
+- Shortcuts for sharing and editing photos
+
 ### Simple Gallery
 Replacement for: Google Photos
 
@@ -284,4 +300,3 @@ PlayStore: currently not available (akps available via releases on GitHub)
 - Allows saving links by sharing from another app
 - Offers an open source [API](https://github.com/albalitz/save-api)
 - No reminders (yet)
-
